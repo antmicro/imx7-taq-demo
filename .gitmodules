@@ -1,0 +1,3 @@
+[submodule "FreeRTOS_BSP_1.0.0_iMX7D"]
+	path = FreeRTOS_BSP_1.0.0_iMX7D
+	url = git://git.toradex.com/freertos-toradex.git
